@@ -2,6 +2,9 @@
 
 Auto‑FAQ is a simple AI agent that integrates with Gmail to automatically handle Frequently Asked Questions (FAQs).
 
+<img width="1111" height="480" alt="image" src="https://github.com/user-attachments/assets/41dab3d4-ae20-463d-9923-3d93d1b9740f" />
+
+
 ## Features
 * Connects with your Gmail account to scan incoming messages and detect FAQ‑type queries.
 * Uses custom context (you can supply a knowledge base or configurable FAQ list) to generate appropriate answers.
