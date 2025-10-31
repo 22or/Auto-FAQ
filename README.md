@@ -81,17 +81,7 @@ Before running Auto-FAQ, you need to set up the Gmail API:
 
 5. **Configure your knowledge base**
    
-   Edit `gmail/context.txt` with your FAQ content. The spaCy model (`en_core_web_sm`) can understand natural language, so format your FAQs naturally:
-```
-   Q: What are your business hours?
-   A: We're open Monday through Friday, 9 AM to 5 PM EST.
-   
-   Q: How do I reset my password?
-   A: Click the "Forgot Password" link on the login page and follow the instructions.
-   
-   Q: What is your return policy?
-   A: We accept returns within 30 days of purchase with original receipt.
-```
+   Edit `gmail/context.txt` with your FAQ content. The spaCy model (`en_core_web_sm`) can understand natural language, so format your FAQs naturally
 
 ## Running Auto-FAQ
 
